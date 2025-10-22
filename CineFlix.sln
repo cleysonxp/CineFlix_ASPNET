@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CineFlix.API", "CineFlix\CineFlix.API.csproj", "{940AD63A-AE18-4705-95E7-C989134438D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CineFlix.Domain", "CineFlix.Domain\CineFlix.Domain.csproj", "{3B4D3250-72A5-4858-8677-7A0D5EDC7794}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CineFlix.Infra", "CineFlix.Infra\CineFlix.Infra.csproj", "{252F9111-903C-4102-9D92-0964EF10A8A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{940AD63A-AE18-4705-95E7-C989134438D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{940AD63A-AE18-4705-95E7-C989134438D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{940AD63A-AE18-4705-95E7-C989134438D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{940AD63A-AE18-4705-95E7-C989134438D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B4D3250-72A5-4858-8677-7A0D5EDC7794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B4D3250-72A5-4858-8677-7A0D5EDC7794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B4D3250-72A5-4858-8677-7A0D5EDC7794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B4D3250-72A5-4858-8677-7A0D5EDC7794}.Release|Any CPU.Build.0 = Release|Any CPU
+		{252F9111-903C-4102-9D92-0964EF10A8A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252F9111-903C-4102-9D92-0964EF10A8A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{252F9111-903C-4102-9D92-0964EF10A8A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{252F9111-903C-4102-9D92-0964EF10A8A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4FA0895-C1D2-4B1E-8165-35A62C1696F8}
+	EndGlobalSection
+EndGlobal
