@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Cleyson\\source\\repos\\CineFlix\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{252F9111-903C-4102-9D92-0964EF10A8A8}|CineFlix.Infra\\CineFlix.Infra.csproj|c:\\users\\cleyson\\source\\repos\\cineflix\\cineflix.infra\\banco\\cineflixcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{252F9111-903C-4102-9D92-0964EF10A8A8}|CineFlix.Infra\\CineFlix.Infra.csproj|solutionrelative:cineflix.infra\\banco\\cineflixcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{252F9111-903C-4102-9D92-0964EF10A8A8}|CineFlix.Infra\\CineFlix.Infra.csproj|c:\\users\\cleyson\\source\\repos\\cineflix\\cineflix.infra\\banco\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{252F9111-903C-4102-9D92-0964EF10A8A8}|CineFlix.Infra\\CineFlix.Infra.csproj|solutionrelative:cineflix.infra\\banco\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B4D3250-72A5-4858-8677-7A0D5EDC7794}|CineFlix.Domain\\CineFlix.Domain.csproj|c:\\users\\cleyson\\source\\repos\\cineflix\\cineflix.domain\\modelo\\ator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B4D3250-72A5-4858-8677-7A0D5EDC7794}|CineFlix.Domain\\CineFlix.Domain.csproj|solutionrelative:cineflix.domain\\modelo\\ator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B4D3250-72A5-4858-8677-7A0D5EDC7794}|CineFlix.Domain\\CineFlix.Domain.csproj|c:\\users\\cleyson\\source\\repos\\cineflix\\cineflix.domain\\modelo\\atorfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B4D3250-72A5-4858-8677-7A0D5EDC7794}|CineFlix.Domain\\CineFlix.Domain.csproj|solutionrelative:cineflix.domain\\modelo\\atorfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B4D3250-72A5-4858-8677-7A0D5EDC7794}|CineFlix.Domain\\CineFlix.Domain.csproj|c:\\users\\cleyson\\source\\repos\\cineflix\\cineflix.domain\\modelo\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B4D3250-72A5-4858-8677-7A0D5EDC7794}|CineFlix.Domain\\CineFlix.Domain.csproj|solutionrelative:cineflix.domain\\modelo\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B4D3250-72A5-4858-8677-7A0D5EDC7794}|CineFlix.Domain\\CineFlix.Domain.csproj|c:\\users\\cleyson\\source\\repos\\cineflix\\cineflix.domain\\modelo\\serie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B4D3250-72A5-4858-8677-7A0D5EDC7794}|CineFlix.Domain\\CineFlix.Domain.csproj|solutionrelative:cineflix.domain\\modelo\\serie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cleyson\\source\\repos\\CineFlix\\CineFlix.Infra\\Migrations\\20251023182426_EstruturaInicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CineFlix.Infra\\Migrations\\20251023182426_EstruturaInicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B4D3250-72A5-4858-8677-7A0D5EDC7794}|CineFlix.Domain\\CineFlix.Domain.csproj|c:\\users\\cleyson\\source\\repos\\cineflix\\cineflix.domain\\modelo\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B4D3250-72A5-4858-8677-7A0D5EDC7794}|CineFlix.Domain\\CineFlix.Domain.csproj|solutionrelative:cineflix.domain\\modelo\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B4D3250-72A5-4858-8677-7A0D5EDC7794}|CineFlix.Domain\\CineFlix.Domain.csproj|c:\\users\\cleyson\\source\\repos\\cineflix\\cineflix.domain\\modelo\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B4D3250-72A5-4858-8677-7A0D5EDC7794}|CineFlix.Domain\\CineFlix.Domain.csproj|solutionrelative:cineflix.domain\\modelo\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B4D3250-72A5-4858-8677-7A0D5EDC7794}|CineFlix.Domain\\CineFlix.Domain.csproj|c:\\users\\cleyson\\source\\repos\\cineflix\\cineflix.domain\\modelo\\atorfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4D3250-72A5-4858-8677-7A0D5EDC7794}|CineFlix.Domain\\CineFlix.Domain.csproj|solutionrelative:cineflix.domain\\modelo\\atorfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4D3250-72A5-4858-8677-7A0D5EDC7794}|CineFlix.Domain\\CineFlix.Domain.csproj|c:\\users\\cleyson\\source\\repos\\cineflix\\cineflix.domain\\modelo\\ator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4D3250-72A5-4858-8677-7A0D5EDC7794}|CineFlix.Domain\\CineFlix.Domain.csproj|solutionrelative:cineflix.domain\\modelo\\ator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4D3250-72A5-4858-8677-7A0D5EDC7794}|CineFlix.Domain\\CineFlix.Domain.csproj|c:\\users\\cleyson\\source\\repos\\cineflix\\cineflix.domain\\modelo\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4D3250-72A5-4858-8677-7A0D5EDC7794}|CineFlix.Domain\\CineFlix.Domain.csproj|solutionrelative:cineflix.domain\\modelo\\avaliacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B4D3250-72A5-4858-8677-7A0D5EDC7794}|CineFlix.Domain\\CineFlix.Domain.csproj|c:\\users\\cleyson\\source\\repos\\cineflix\\cineflix.domain\\modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B4D3250-72A5-4858-8677-7A0D5EDC7794}|CineFlix.Domain\\CineFlix.Domain.csproj|solutionrelative:cineflix.domain\\modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4D3250-72A5-4858-8677-7A0D5EDC7794}|CineFlix.Domain\\CineFlix.Domain.csproj|c:\\users\\cleyson\\source\\repos\\cineflix\\cineflix.domain\\modelo\\serie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4D3250-72A5-4858-8677-7A0D5EDC7794}|CineFlix.Domain\\CineFlix.Domain.csproj|solutionrelative:cineflix.domain\\modelo\\serie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4D3250-72A5-4858-8677-7A0D5EDC7794}|CineFlix.Domain\\CineFlix.Domain.csproj|c:\\users\\cleyson\\source\\repos\\cineflix\\cineflix.domain\\modelo\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4D3250-72A5-4858-8677-7A0D5EDC7794}|CineFlix.Domain\\CineFlix.Domain.csproj|solutionrelative:cineflix.domain\\modelo\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{940AD63A-AE18-4705-95E7-C989134438D5}|CineFlix\\CineFlix.API.csproj|c:\\users\\cleyson\\source\\repos\\cineflix\\cineflix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{940AD63A-AE18-4705-95E7-C989134438D5}|CineFlix\\CineFlix.API.csproj|solutionrelative:cineflix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,84 +46,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251023182426_EstruturaInicial.cs",
+              "DocumentMoniker": "C:\\Users\\Cleyson\\source\\repos\\CineFlix\\CineFlix.Infra\\Migrations\\20251023182426_EstruturaInicial.cs",
+              "RelativeDocumentMoniker": "CineFlix.Infra\\Migrations\\20251023182426_EstruturaInicial.cs",
+              "ToolTip": "C:\\Users\\Cleyson\\source\\repos\\CineFlix\\CineFlix.Infra\\Migrations\\20251023182426_EstruturaInicial.cs",
+              "RelativeToolTip": "CineFlix.Infra\\Migrations\\20251023182426_EstruturaInicial.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T18:24:26.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DAL.cs",
-              "DocumentMoniker": "C:\\Users\\Cleyson\\source\\repos\\CineFlix\\CineFlix.Infra\\Banco\\DAL.cs",
-              "RelativeDocumentMoniker": "CineFlix.Infra\\Banco\\DAL.cs",
-              "ToolTip": "C:\\Users\\Cleyson\\source\\repos\\CineFlix\\CineFlix.Infra\\Banco\\DAL.cs",
-              "RelativeToolTip": "CineFlix.Infra\\Banco\\DAL.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAuwCoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T17:45:42.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Ator.cs",
-              "DocumentMoniker": "C:\\Users\\Cleyson\\source\\repos\\CineFlix\\CineFlix.Domain\\Modelo\\Ator.cs",
-              "RelativeDocumentMoniker": "CineFlix.Domain\\Modelo\\Ator.cs",
-              "ToolTip": "C:\\Users\\Cleyson\\source\\repos\\CineFlix\\CineFlix.Domain\\Modelo\\Ator.cs",
-              "RelativeToolTip": "CineFlix.Domain\\Modelo\\Ator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T17:15:54.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Cleyson\\source\\repos\\CineFlix\\CineFlix.Domain\\Modelo\\Usuario.cs",
-              "RelativeDocumentMoniker": "CineFlix.Domain\\Modelo\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Cleyson\\source\\repos\\CineFlix\\CineFlix.Domain\\Modelo\\Usuario.cs",
-              "RelativeToolTip": "CineFlix.Domain\\Modelo\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T17:18:13.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Serie.cs",
-              "DocumentMoniker": "C:\\Users\\Cleyson\\source\\repos\\CineFlix\\CineFlix.Domain\\Modelo\\Serie.cs",
-              "RelativeDocumentMoniker": "CineFlix.Domain\\Modelo\\Serie.cs",
-              "ToolTip": "C:\\Users\\Cleyson\\source\\repos\\CineFlix\\CineFlix.Domain\\Modelo\\Serie.cs",
-              "RelativeToolTip": "CineFlix.Domain\\Modelo\\Serie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T17:18:04.642Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Genero.cs",
-              "DocumentMoniker": "C:\\Users\\Cleyson\\source\\repos\\CineFlix\\CineFlix.Domain\\Modelo\\Genero.cs",
-              "RelativeDocumentMoniker": "CineFlix.Domain\\Modelo\\Genero.cs",
-              "ToolTip": "C:\\Users\\Cleyson\\source\\repos\\CineFlix\\CineFlix.Domain\\Modelo\\Genero.cs",
-              "RelativeToolTip": "CineFlix.Domain\\Modelo\\Genero.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T17:17:57.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Filme.cs",
               "DocumentMoniker": "C:\\Users\\Cleyson\\source\\repos\\CineFlix\\CineFlix.Domain\\Modelo\\Filme.cs",
               "RelativeDocumentMoniker": "CineFlix.Domain\\Modelo\\Filme.cs",
               "ToolTip": "C:\\Users\\Cleyson\\source\\repos\\CineFlix\\CineFlix.Domain\\Modelo\\Filme.cs",
               "RelativeToolTip": "CineFlix.Domain\\Modelo\\Filme.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T17:17:48.889Z",
+              "WhenOpened": "2025-10-23T18:23:26.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Cleyson\\source\\repos\\CineFlix\\CineFlix.Domain\\Modelo\\Usuario.cs",
+              "RelativeDocumentMoniker": "CineFlix.Domain\\Modelo\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Cleyson\\source\\repos\\CineFlix\\CineFlix.Domain\\Modelo\\Usuario.cs",
+              "RelativeToolTip": "CineFlix.Domain\\Modelo\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:36:30.458Z",
               "EditorCaption": ""
             },
             {
@@ -134,22 +95,22 @@
               "RelativeDocumentMoniker": "CineFlix.Domain\\Modelo\\Avaliacao.cs",
               "ToolTip": "C:\\Users\\Cleyson\\source\\repos\\CineFlix\\CineFlix.Domain\\Modelo\\Avaliacao.cs",
               "RelativeToolTip": "CineFlix.Domain\\Modelo\\Avaliacao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T17:17:39.396Z",
+              "WhenOpened": "2025-10-23T17:36:21.832Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AtorFilme.cs",
-              "DocumentMoniker": "C:\\Users\\Cleyson\\source\\repos\\CineFlix\\CineFlix.Domain\\Modelo\\AtorFilme.cs",
-              "RelativeDocumentMoniker": "CineFlix.Domain\\Modelo\\AtorFilme.cs",
-              "ToolTip": "C:\\Users\\Cleyson\\source\\repos\\CineFlix\\CineFlix.Domain\\Modelo\\AtorFilme.cs",
-              "RelativeToolTip": "CineFlix.Domain\\Modelo\\AtorFilme.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Serie.cs",
+              "DocumentMoniker": "C:\\Users\\Cleyson\\source\\repos\\CineFlix\\CineFlix.Domain\\Modelo\\Serie.cs",
+              "RelativeDocumentMoniker": "CineFlix.Domain\\Modelo\\Serie.cs",
+              "ToolTip": "C:\\Users\\Cleyson\\source\\repos\\CineFlix\\CineFlix.Domain\\Modelo\\Serie.cs",
+              "RelativeToolTip": "CineFlix.Domain\\Modelo\\Serie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T17:17:20.936Z",
+              "WhenOpened": "2025-10-23T17:36:04.209Z",
               "EditorCaption": ""
             },
             {
@@ -174,15 +135,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CineFlixContext.cs",
-              "DocumentMoniker": "C:\\Users\\Cleyson\\source\\repos\\CineFlix\\CineFlix.Infra\\Banco\\CineFlixContext.cs",
-              "RelativeDocumentMoniker": "CineFlix.Infra\\Banco\\CineFlixContext.cs",
-              "ToolTip": "C:\\Users\\Cleyson\\source\\repos\\CineFlix\\CineFlix.Infra\\Banco\\CineFlixContext.cs",
-              "RelativeToolTip": "CineFlix.Infra\\Banco\\CineFlixContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwDUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Genero.cs",
+              "DocumentMoniker": "C:\\Users\\Cleyson\\source\\repos\\CineFlix\\CineFlix.Domain\\Modelo\\Genero.cs",
+              "RelativeDocumentMoniker": "CineFlix.Domain\\Modelo\\Genero.cs",
+              "ToolTip": "C:\\Users\\Cleyson\\source\\repos\\CineFlix\\CineFlix.Domain\\Modelo\\Genero.cs",
+              "RelativeToolTip": "CineFlix.Domain\\Modelo\\Genero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T17:13:40.081Z",
+              "WhenOpened": "2025-10-23T17:35:54.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AtorFilme.cs",
+              "DocumentMoniker": "C:\\Users\\Cleyson\\source\\repos\\CineFlix\\CineFlix.Domain\\Modelo\\AtorFilme.cs",
+              "RelativeDocumentMoniker": "CineFlix.Domain\\Modelo\\AtorFilme.cs",
+              "ToolTip": "C:\\Users\\Cleyson\\source\\repos\\CineFlix\\CineFlix.Domain\\Modelo\\AtorFilme.cs",
+              "RelativeToolTip": "CineFlix.Domain\\Modelo\\AtorFilme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:35:36.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ator.cs",
+              "DocumentMoniker": "C:\\Users\\Cleyson\\source\\repos\\CineFlix\\CineFlix.Domain\\Modelo\\Ator.cs",
+              "RelativeDocumentMoniker": "CineFlix.Domain\\Modelo\\Ator.cs",
+              "ToolTip": "C:\\Users\\Cleyson\\source\\repos\\CineFlix\\CineFlix.Domain\\Modelo\\Ator.cs",
+              "RelativeToolTip": "CineFlix.Domain\\Modelo\\Ator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:34:39.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cleyson\\source\\repos\\CineFlix\\CineFlix\\Program.cs",
+              "RelativeDocumentMoniker": "CineFlix\\Program.cs",
+              "ToolTip": "C:\\Users\\Cleyson\\source\\repos\\CineFlix\\CineFlix\\Program.cs",
+              "RelativeToolTip": "CineFlix\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:23:15.521Z",
               "EditorCaption": ""
             }
           ]

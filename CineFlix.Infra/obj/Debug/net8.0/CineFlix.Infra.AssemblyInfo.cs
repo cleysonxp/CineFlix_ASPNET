@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CineFlix.Infra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee1425c8627b3fbf507fd76120c1c338847bea29")]
 [assembly: System.Reflection.AssemblyProductAttribute("CineFlix.Infra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CineFlix.Infra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

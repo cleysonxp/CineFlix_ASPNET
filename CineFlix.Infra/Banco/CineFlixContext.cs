@@ -1,7 +1,5 @@
 ﻿using CineFlix.Domain.Modelo;
 using Microsoft.EntityFrameworkCore;
-using System.Collections.Generic;
-using System.Reflection.Emit;
 
 namespace CineFlix.Infra.Banco
 {
@@ -28,7 +26,7 @@ namespace CineFlix.Infra.Banco
             {
                 optionsBuilder
                     .UseSqlServer(_connectionString)
-                .UseLazyLoadingProxies();
+                    .UseLazyLoadingProxies();
             }
         }
 
@@ -36,6 +34,7 @@ namespace CineFlix.Infra.Banco
         {
             base.OnModelCreating(modelBuilder);
 
+            // 🔹 Tabela de junção N:N entre Filme e Ator
             modelBuilder.Entity<AtorFilme>()
                 .HasKey(af => new { af.AtorId, af.FilmeId });
 
@@ -48,6 +47,44 @@ namespace CineFlix.Infra.Banco
                 .HasOne(af => af.Filme)
                 .WithMany(f => f.AtoresFilmes)
                 .HasForeignKey(af => af.FilmeId);
+
+            // 🔹 Índice único para o e-mail do usuário
+            modelBuilder.Entity<Usuario>()
+                .HasIndex(u => u.Email)
+                .IsUnique();
+
+            // 🔹 Relacionamento 1:N entre Genero e Filme
+            modelBuilder.Entity<Filme>()
+                .HasOne(f => f.Genero)
+                .WithMany(g => g.Filmes)
+                .HasForeignKey(f => f.GeneroId)
+                .OnDelete(DeleteBehavior.Restrict);
+
+            // 🔹 Relacionamento 1:N entre Genero e Serie
+            modelBuilder.Entity<Serie>()
+                .HasOne(s => s.Genero)
+                .WithMany(g => g.Series)
+                .HasForeignKey(s => s.GeneroId)
+                .OnDelete(DeleteBehavior.Restrict);
+
+            // 🔹 Relacionamento de Avaliação (Usuario → Filme/Serie)
+            modelBuilder.Entity<Avaliacao>()
+                .HasOne(a => a.Usuario)
+                .WithMany(u => u.Avaliacoes)
+                .HasForeignKey(a => a.UsuarioId)
+                .OnDelete(DeleteBehavior.Cascade);
+
+            modelBuilder.Entity<Avaliacao>()
+                .HasOne(a => a.Filme)
+                .WithMany(f => f.Avaliacoes)
+                .HasForeignKey(a => a.FilmeId)
+                .OnDelete(DeleteBehavior.Cascade);
+
+            modelBuilder.Entity<Avaliacao>()
+                .HasOne(a => a.Serie)
+                .WithMany(s => s.Avaliacoes)
+                .HasForeignKey(a => a.SerieId)
+                .OnDelete(DeleteBehavior.Cascade);
         }
     }
 }
