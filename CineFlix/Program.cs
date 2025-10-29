@@ -1,3 +1,4 @@
+using CineFlix.API.Endpoints;
 using CineFlix.Domain.Modelo;
 using CineFlix.Infra.Banco;
 using Microsoft.EntityFrameworkCore;
@@ -40,6 +41,12 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
+
+//Endpoints
+app.MapFilmesEndpoints();
+app.MapSeriesEndpoints();
+app.MapGenerosEndpoints();
+app.MapAtoresEndpoints();
 
 app.MapControllers();
 

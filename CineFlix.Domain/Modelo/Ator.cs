@@ -16,6 +16,9 @@ public class Ator
     [MaxLength(50)]
     public string? Nacionalidade { get; set; }
 
+    [MaxLength(200)]
+    public string? FotoPerfil { get; set; }
+
     // Relacionamento N:N com Filme
     public virtual ICollection<AtorFilme>? AtoresFilmes { get; set; }
 }
